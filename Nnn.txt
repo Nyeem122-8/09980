@@ -1,4 +1,4 @@
-Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_5 rv:6.0; FR) AppleWebKit/531.1.0 (KHTML, like Gecko) Version/6.1.10 Safari/531.1.0",
+ Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_5 rv:6.0; FR) AppleWebKit/531.1.0 (KHTML, like Gecko) Version/6.1.10 Safari/531.1.0",
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/538.0.1 (KHTML, like Gecko) Chrome/14.0.809.0 Safari/538.0.1
 Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_0) AppleWebKit/535.2.1 (KHTML, like Gecko) Chrome/19.0.834.0 Safari/535.2.1
 Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 5.0; Trident/5.1; .NET CLR 3.7.33888.9)
